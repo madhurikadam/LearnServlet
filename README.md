@@ -3,6 +3,7 @@ Learn the basic of `Servlet` using `LearnServlet`
 
 ## Highlights: 
 * Create your First servlet `HelloServlet`
+* Default Servler `MyDefaultServlet`
 * Initiation of servlet with init param `initParamServlet`
 * Configure Servlet with annoation `AnnotationExampleServlet`
 * Servlet URL pattern `AsteriskServlet`
