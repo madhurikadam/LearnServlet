@@ -5,7 +5,7 @@ Learn the basic of `Servlet` using `LearnServlet`
 * Create your First servlet `HelloServlet`
 * Initiation of servlet with init param `initParamServlet`
 * Configure Servlet with annoation `AnnotationExampleServlet`
-* Servlet URL pattern 'AsteriskServlet'
+* Servlet URL pattern `AsteriskServlet`
 * Basic information of Servlet `ExampleInfoServlet`
 * Page forwarding `ForwardDemoServlet`
 * Page Redirection `RedirectDemoServlet`
